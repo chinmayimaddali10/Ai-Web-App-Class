@@ -1,0 +1,41 @@
+body {
+    background: cover;
+}
+
+#divVolume {
+    float: left;
+}
+
+#volume {
+    color: rgb(13, 0, 255);
+    background-color: crimson;
+    font-size: x-large;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#divSpeed {
+    float: right;
+}
+
+#speed {
+    color: crimson;
+    background-color: blue;
+    font-size: x-large;
+}
+
+#play {
+    color: blue;
+    font-size: x-large;
+}
+
+canvas {
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    border-width: 20px;
+    border-color: rgb(0, 255, 255);
+    border-style: double;
+}
